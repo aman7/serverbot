@@ -1,0 +1,30 @@
+{
+  "name": "onlineplayer",
+  "version": "1.0.0",
+  "description": "it shows the total number of online players",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aman7/onlinePlayers.git"
+  },
+  "keywords": [
+    "bot",
+    "discord",
+    "online",
+    "deadalive",
+    "server"
+  ],
+  "author": "deadalive",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aman7/onlinePlayers/issues"
+  },
+  "homepage": "https://github.com/aman7/onlinePlayers#readme",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "gamedig": "^2.0.14"
+  }
+}
